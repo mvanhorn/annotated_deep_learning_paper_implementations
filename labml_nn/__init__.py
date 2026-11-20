@@ -85,6 +85,8 @@ implementations.
 
 #### ✨ [U-Net](unet/index.html)
 
+#### ✨ [Neural Operators](neural_operators/index.html)
+
 #### ✨ [Sketch RNN](sketch_rnn/index.html)
 
 #### ✨ Graph Neural Networks
